@@ -1,0 +1,12 @@
+body{
+  background: gray;
+}
+
+h1, h2{
+  color:purple;
+  text-align: center;
+}
+
+p{
+  color: green;
+}
